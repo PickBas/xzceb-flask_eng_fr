@@ -1,9 +1,4 @@
-************* Module machinetranslation.translator
-translator.py:21:0: C0103: Function name "englishToFrench" doesn't conform to snake_case naming style (invalid-name)
-translator.py:21:20: C0103: Argument name "englishText" doesn't conform to snake_case naming style (invalid-name)
-translator.py:30:0: C0103: Function name "frenchToEnglish" doesn't conform to snake_case naming style (invalid-name)
-translator.py:30:20: C0103: Argument name "frenchText" doesn't conform to snake_case naming style (invalid-name)
 
-------------------------------------------------------------------
-Your code has been rated at 7.14/10 (previous run: 7.14/10, +0.00)
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.14/10, +2.86)
 
